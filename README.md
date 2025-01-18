@@ -1,16 +1,13 @@
-## Hi there 👋
+# Привет, меня зовут Владимир Зайцев
 
-<!--
-**abadd00d/abadd00d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+todo
 
-Here are some ideas to get you started:
+## Почитать/послушать меня:
+- Телеграм-канал ["Как-то справляюсь"](https://t.me/smhowimanage)
+- Ютуб-канал [NGENIX.cloudsecurity](https://www.youtube.com/channel/UCl4q90yLzaGOPlUngOa_4Vg)
+- Я на [getmentor.dev](https://getmentor.dev/mentor/vladimir-zaycev-4235)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Соцсетки:
+- Фейсбук: https://www.facebook.com/zaytsevvvvv
+- Гитхаб: https://github.com/abadd00d
+- Телеграм: https://t.me/zaytsev_vv
