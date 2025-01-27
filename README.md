@@ -17,5 +17,5 @@
 - E-mail: me@vzaytsev.ru
 
 ## Работать со мной:
-– Раздел "Карьера" на сайте NGENIX – https://ngenix.net/career/
-– HH – https://hh.ru/employer/656166
+- Раздел "Карьера" на сайте NGENIX – https://ngenix.net/career/
+- HH – https://hh.ru/employer/656166
