@@ -15,3 +15,7 @@
 ## Связаться со мной:
 - Телеграм: https://t.me/zaytsev_vv
 - E-mail: me@vzaytsev.ru
+
+## Работать со мной:
+– Раздел "Карьера" на сайте NGENIX – https://ngenix.net/career/
+– HH – https://hh.ru/employer/656166
