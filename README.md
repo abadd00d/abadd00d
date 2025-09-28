@@ -10,8 +10,12 @@
 - Телеграм-канал ["Как-то справляюсь"](https://t.me/smhowimanage)
 - Ютуб-канал [NGENIX.cloudsecurity](https://www.youtube.com/channel/UCl4q90yLzaGOPlUngOa_4Vg)
 - Я на [getmentor.dev](https://getmentor.dev/mentor/vladimir-zaycev-4235)
-- Профиль на AMLive – https://live.anti-malware.ru/eksperty/4379/
 - Гитхаб: https://github.com/abadd00d
+
+## Мои выступления:
+- PHDays 2025, "Эффективная эшелонированная защита веб" - https://phdays.com/ru/forum/broadcast/?timeZone=Asia%2FYekaterinburg&talk=1759&selectedDate=2025-05-22T13%3A30%3A00.000Z&selectedTagSlug=architecture
+- SOCForum 2024, "Где взять новых ИБ-специалистов для веб-проекта?" – https://vkvideo.ru/video-221945088_456239436
+- Эфиры на AMLive – https://live.anti-malware.ru/eksperty/4379/
 
 ## Связаться со мной:
 - Телеграм: https://t.me/zaytsev_vv
