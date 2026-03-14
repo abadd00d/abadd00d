@@ -8,7 +8,7 @@
 
 ## Почитать/послушать меня:
 - Телеграм-канал ["Как-то справляюсь"](https://t.me/smhowimanage)
-- Ютуб-канал [NGENIX.cloudsecurity](https://www.youtube.com/channel/UCl4q90yLzaGOPlUngOa_4Vg)
+- Ютуб-канал [NGENIX.cloudsecurity](https://www.youtube.com/@ngenix.cloudsecurity)
 - Я на [getmentor.dev](https://getmentor.dev/mentor/vladimir-zaycev-4235)
   
 ## Мои выступления:
