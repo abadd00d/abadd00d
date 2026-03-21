@@ -4,8 +4,6 @@
 - вместе с командой предоставляем лучший в России сервис по защите от DDoS, ботов и взлома, 
 - выступаю, пишу статьи, развиваю ИТ и кибербез в России.
 
-Подробнее обо мне по [ссылке](<https://github.com/abadd00d/web-for-juniors?tab=readme-ov-file#%D0%BE%D0%B1-%D0%B0%D0%B2%D1%82%D0%BE%D1%80%D0%B5>).
-
 ## Почитать/послушать меня:
 - Телеграм-канал ["Как-то справляюсь"](https://t.me/smhowimanage)
 - Ютуб-канал [NGENIX.cloudsecurity](https://www.youtube.com/@ngenix.cloudsecurity)
